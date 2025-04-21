@@ -1,0 +1,156 @@
+2025-03-03 10:53:05,104 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 13:41:34,218 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 13:47:28,569 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 13:55:57,339 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 13:55:57,371 - gpu_model_manager - INFO - Initializing 4 instances per model type on GPU
+2025-03-03 13:55:57,592 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 13:55:57,699 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 13:55:57,742 - gpu_model_manager - INFO - Detection Model: 2 initialized!
+2025-03-03 13:55:57,776 - gpu_model_manager - INFO - Detection Model: 3 initialized!
+2025-03-03 13:55:57,776 - gpu_model_manager - INFO - GPU Memory: Allocated=0.04GB, Reserved=0.04GB
+2025-03-03 14:00:38,439 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 14:00:38,440 - gpu_model_manager - INFO - Initializing 4 instances per model type on GPU
+2025-03-03 14:00:38,563 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 14:00:38,795 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 14:00:38,926 - gpu_model_manager - INFO - Detection Model: 2 initialized!
+2025-03-03 14:00:39,042 - gpu_model_manager - INFO - Detection Model: 3 initialized!
+2025-03-03 14:00:39,042 - gpu_model_manager - INFO - GPU Memory: Allocated=0.09GB, Reserved=0.09GB
+2025-03-03 14:02:16,758 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 14:02:16,761 - gpu_model_manager - INFO - Initializing 4 instances per model type on GPU
+2025-03-03 14:02:16,878 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 14:02:16,980 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 14:02:17,099 - gpu_model_manager - INFO - Detection Model: 2 initialized!
+2025-03-03 14:02:17,212 - gpu_model_manager - INFO - Detection Model: 3 initialized!
+2025-03-03 14:02:17,213 - gpu_model_manager - INFO - GPU Memory: Allocated=0.13GB, Reserved=0.13GB
+2025-03-03 14:02:17,213 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 14:02:17,213 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 14:03:27,942 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 14:03:27,964 - gpu_model_manager - INFO - Initializing 4 instances per model type on GPU
+2025-03-03 14:03:28,213 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 14:03:28,314 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 14:03:28,356 - gpu_model_manager - INFO - Detection Model: 2 initialized!
+2025-03-03 14:03:28,397 - gpu_model_manager - INFO - Detection Model: 3 initialized!
+2025-03-03 14:03:28,398 - gpu_model_manager - INFO - GPU Memory: Allocated=0.04GB, Reserved=0.04GB
+2025-03-03 14:03:34,701 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 14:03:34,702 - gpu_model_manager - INFO - Initializing 4 instances per model type on GPU
+2025-03-03 14:03:34,876 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 14:03:34,993 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 14:03:35,110 - gpu_model_manager - INFO - Detection Model: 2 initialized!
+2025-03-03 14:03:35,210 - gpu_model_manager - INFO - Detection Model: 3 initialized!
+2025-03-03 14:03:35,210 - gpu_model_manager - INFO - GPU Memory: Allocated=0.09GB, Reserved=0.09GB
+2025-03-03 14:03:35,210 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 14:03:35,210 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 14:03:46,678 - gpu_model_manager - INFO - Released hotspot model instance
+2025-03-03 14:11:35,092 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 14:11:35,093 - gpu_model_manager - INFO - Initializing 4 instances per model type on GPU
+2025-03-03 14:11:35,213 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 14:11:35,410 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 14:11:35,529 - gpu_model_manager - INFO - Detection Model: 2 initialized!
+2025-03-03 14:11:35,629 - gpu_model_manager - INFO - Detection Model: 3 initialized!
+2025-03-03 14:11:35,629 - gpu_model_manager - INFO - GPU Memory: Allocated=0.16GB, Reserved=0.16GB
+2025-03-03 14:11:35,629 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 14:11:35,629 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 14:11:45,287 - gpu_model_manager - INFO - Released hotspot model instance
+2025-03-03 15:05:01,092 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 15:05:01,092 - gpu_model_manager - INFO - Initializing 4 instances per model type on GPU
+2025-03-03 15:05:01,230 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 15:05:01,345 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 15:05:01,444 - gpu_model_manager - INFO - Detection Model: 2 initialized!
+2025-03-03 15:05:01,561 - gpu_model_manager - INFO - Detection Model: 3 initialized!
+2025-03-03 15:05:01,561 - gpu_model_manager - INFO - GPU Memory: Allocated=0.17GB, Reserved=0.17GB
+2025-03-03 15:05:01,561 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 15:05:01,561 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 15:06:08,270 - gpu_model_manager - INFO - Released hotspot model instance
+2025-03-03 15:23:36,713 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 15:23:36,714 - gpu_model_manager - INFO - Initializing 4 instances per model type on GPU
+2025-03-03 15:23:36,907 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 15:23:37,064 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 15:23:37,220 - gpu_model_manager - INFO - Detection Model: 2 initialized!
+2025-03-03 15:23:37,439 - gpu_model_manager - INFO - Detection Model: 3 initialized!
+2025-03-03 15:23:37,439 - gpu_model_manager - INFO - GPU Memory: Allocated=0.18GB, Reserved=0.18GB
+2025-03-03 15:23:37,454 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 15:23:37,454 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 15:25:50,250 - gpu_model_manager - INFO - Released hotspot model instance
+2025-03-03 15:46:14,653 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 15:46:14,689 - gpu_model_manager - INFO - Initializing 2 instances per model type on GPU
+2025-03-03 15:46:14,863 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 15:46:14,898 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 15:46:14,898 - gpu_model_manager - INFO - GPU Memory: Allocated=0.02GB, Reserved=0.02GB
+2025-03-03 15:46:46,858 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 15:46:46,859 - gpu_model_manager - INFO - Initializing 4 instances per model type on GPU
+2025-03-03 15:46:46,992 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 15:46:47,157 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 15:46:47,256 - gpu_model_manager - INFO - Detection Model: 2 initialized!
+2025-03-03 15:46:47,371 - gpu_model_manager - INFO - Detection Model: 3 initialized!
+2025-03-03 15:46:47,372 - gpu_model_manager - INFO - GPU Memory: Allocated=0.06GB, Reserved=0.06GB
+2025-03-03 15:46:47,375 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 15:46:47,375 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 15:47:51,986 - gpu_model_manager - INFO - Released hotspot model instance
+2025-03-03 16:08:17,662 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 16:08:17,662 - gpu_model_manager - INFO - Initializing 4 instances per model type on GPU
+2025-03-03 16:08:17,789 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 16:08:17,939 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 16:08:18,085 - gpu_model_manager - INFO - Detection Model: 2 initialized!
+2025-03-03 16:08:18,207 - gpu_model_manager - INFO - Detection Model: 3 initialized!
+2025-03-03 16:08:18,207 - gpu_model_manager - INFO - GPU Memory: Allocated=0.14GB, Reserved=0.14GB
+2025-03-03 16:08:18,207 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 16:08:18,207 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 16:09:28,725 - gpu_model_manager - INFO - Released hotspot model instance
+2025-03-03 17:28:24,197 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 17:28:24,198 - gpu_model_manager - INFO - Initializing 1 instances per model type on GPU
+2025-03-03 17:28:24,364 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 17:28:24,364 - gpu_model_manager - INFO - GPU Memory: Allocated=0.12GB, Reserved=0.12GB
+2025-03-03 17:28:24,364 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 17:28:24,364 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 17:28:24,581 - gpu_model_manager - INFO - Released hotspot model instance
+2025-03-03 17:28:52,243 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 17:28:52,244 - gpu_model_manager - INFO - Initializing 2 instances per model type on GPU
+2025-03-03 17:28:52,373 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 17:28:52,523 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 17:28:52,523 - gpu_model_manager - INFO - GPU Memory: Allocated=0.13GB, Reserved=0.13GB
+2025-03-03 17:29:31,549 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 17:29:31,549 - gpu_model_manager - INFO - Initializing 2 instances per model type on GPU
+2025-03-03 17:29:31,665 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 17:29:32,031 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 17:29:32,031 - gpu_model_manager - INFO - GPU Memory: Allocated=0.10GB, Reserved=0.10GB
+2025-03-03 17:34:16,473 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 17:34:16,474 - gpu_model_manager - INFO - Initializing 1 instances per model type on GPU
+2025-03-03 17:34:16,595 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 17:34:16,596 - gpu_model_manager - INFO - GPU Memory: Allocated=0.09GB, Reserved=0.09GB
+2025-03-03 17:34:16,598 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 17:34:16,598 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 17:34:16,688 - gpu_model_manager - INFO - Released hotspot model instance
+2025-03-03 17:34:28,906 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 17:34:28,906 - gpu_model_manager - INFO - Initializing 2 instances per model type on GPU
+2025-03-03 17:34:29,033 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 17:34:29,134 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 17:34:29,135 - gpu_model_manager - INFO - GPU Memory: Allocated=0.10GB, Reserved=0.10GB
+2025-03-03 17:56:42,308 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 17:56:42,309 - gpu_model_manager - INFO - Initializing 1 instances per model type on GPU
+2025-03-03 17:56:42,460 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 17:56:42,461 - gpu_model_manager - INFO - GPU Memory: Allocated=0.09GB, Reserved=0.09GB
+2025-03-03 17:56:42,474 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 17:56:42,474 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 19:07:58,456 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 19:07:59,342 - gpu_model_manager - INFO - Initializing 2 instances per model type on GPU
+2025-03-03 19:07:59,775 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 19:07:59,831 - gpu_model_manager - INFO - Detection Model: 1 initialized!
+2025-03-03 19:07:59,831 - gpu_model_manager - INFO - GPU Memory: Allocated=0.02GB, Reserved=0.02GB
+2025-03-03 19:09:07,499 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 19:09:07,502 - gpu_model_manager - INFO - Initializing 1 instances per model type on GPU
+2025-03-03 19:09:08,434 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 19:09:08,449 - gpu_model_manager - INFO - GPU Memory: Allocated=0.03GB, Reserved=0.03GB
+2025-03-03 19:09:08,551 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 19:09:08,551 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 19:44:21,639 - gpu_model_manager - INFO - Released hotspot model instance
+2025-03-03 20:20:38,342 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 20:20:38,343 - gpu_model_manager - INFO - Initializing 1 instances per model type on GPU
+2025-03-03 20:20:38,467 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 20:20:38,467 - gpu_model_manager - INFO - GPU Memory: Allocated=0.07GB, Reserved=0.07GB
+2025-03-03 20:24:52,172 - gpu_model_manager - INFO - Initializing single_gpu_model_manager.
+2025-03-03 20:24:52,172 - gpu_model_manager - INFO - Initializing 1 instances per model type on GPU
+2025-03-03 20:24:52,287 - gpu_model_manager - INFO - Detection Model: 0 initialized!
+2025-03-03 20:24:52,288 - gpu_model_manager - INFO - GPU Memory: Allocated=0.07GB, Reserved=0.07GB
+2025-03-03 20:24:52,290 - gpu_model_manager - INFO - Checking instance: hotspot
+2025-03-03 20:24:52,290 - gpu_model_manager - INFO - Returning instance: hotspot
+2025-03-03 20:35:01,416 - gpu_model_manager - INFO - Released hotspot model instance

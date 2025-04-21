@@ -1,0 +1,66 @@
+2025-03-03 10:53:05,103 - main - INFO - Initializing main worker.
+2025-03-03 13:41:34,218 - main - INFO - Initializing main worker.
+2025-03-03 13:47:28,569 - main - INFO - Initializing main worker.
+2025-03-03 13:55:57,338 - main - INFO - Initializing main worker.
+2025-03-03 14:00:38,438 - main - INFO - Initializing main worker.
+2025-03-03 14:02:16,758 - main - INFO - Initializing main worker.
+2025-03-03 14:03:27,941 - main - INFO - Initializing main worker.
+2025-03-03 14:03:34,700 - main - INFO - Initializing main worker.
+2025-03-03 14:03:46,678 - main - INFO - processing completed successfully: True
+2025-03-03 14:11:35,077 - main - INFO - Initializing main worker.
+2025-03-03 14:11:45,292 - main - INFO - processing completed successfully: True
+2025-03-03 15:05:01,090 - main - INFO - Initializing main worker.
+2025-03-03 15:06:08,270 - main - INFO - processing completed successfully: True
+2025-03-03 15:23:36,704 - main - INFO - Initializing main worker.
+2025-03-03 15:25:50,250 - main - INFO - processing completed successfully: True
+2025-03-03 15:46:14,652 - main - INFO - Initializing main worker.
+2025-03-03 15:46:46,857 - main - INFO - Initializing main worker.
+2025-03-03 15:47:51,986 - main - INFO - processing completed successfully: True
+2025-03-03 16:08:17,654 - main - INFO - Initializing main worker.
+2025-03-03 16:09:28,725 - main - INFO - processing completed successfully: True
+2025-03-03 17:28:24,196 - main - INFO - Initializing main worker.
+2025-03-03 17:28:24,581 - main - ERROR - Error processing job: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\main.py", line 31, in process_job
+    success = await self.processor.process_video(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\singlegpu_videoprocessor.py", line 40, in process_video
+    success = await self._process_hotspot_video(video_path, model_instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\singlegpu_videoprocessor.py", line 95, in _process_hotspot_video
+    raise Exception(f"Failed to open video file: {video_path}")
+Exception: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+2025-03-03 17:28:52,242 - main - INFO - Initializing main worker.
+2025-03-03 17:28:52,523 - main - ERROR - Error processing job: ParallelVideoProcessor.process_video() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Temp\ipykernel_33972\2171282164.py", line 33, in process_job
+    success = await self.processor.process_video(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ParallelVideoProcessor.process_video() takes 3 positional arguments but 4 were given
+2025-03-03 17:29:31,548 - main - INFO - Initializing main worker.
+2025-03-03 17:29:32,031 - main - ERROR - Error processing job: ParallelVideoProcessor.process_video() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Temp\ipykernel_33972\2171282164.py", line 33, in process_job
+    success = await self.processor.process_video(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ParallelVideoProcessor.process_video() takes 3 positional arguments but 4 were given
+2025-03-03 17:34:16,472 - main - INFO - Initializing main worker.
+2025-03-03 17:34:16,689 - main - ERROR - Error processing job: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\main.py", line 31, in process_job
+    success = await self.processor.process_video(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\singlegpu_videoprocessor.py", line 40, in process_video
+    success = await self._process_hotspot_video(video_path, model_instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\singlegpu_videoprocessor.py", line 95, in _process_hotspot_video
+    raise Exception(f"Failed to open video file: {video_path}")
+Exception: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+2025-03-03 17:34:28,905 - main - INFO - Initializing main worker.
+2025-03-03 17:34:29,139 - main - ERROR - Error processing job: ParallelVideoProcessor.process_video() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Temp\ipykernel_33972\2171282164.py", line 33, in process_job
+    success = await self.processor.process_video(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ParallelVideoProcessor.process_video() takes 3 positional arguments but 4 were given
+2025-03-03 19:07:58,449 - main - INFO - Initializing main worker.

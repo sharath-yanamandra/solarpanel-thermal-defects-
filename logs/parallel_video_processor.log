@@ -1,0 +1,89 @@
+2025-03-03 13:55:57,786 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 14:00:39,042 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 14:02:17,213 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 14:02:17,213 - parallel_video_processor - INFO - Got hotspot model instance.
+2025-03-03 14:02:17,213 - parallel_video_processor - INFO - Starting hotspot detection for video_id
+2025-03-03 14:02:17,213 - parallel_video_processor - INFO - Initializing Kalman trackers for each class
+2025-03-03 14:02:17,245 - parallel_video_processor - INFO - Starting frame processing loop
+2025-03-03 14:03:28,399 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 14:03:35,210 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 14:03:35,225 - parallel_video_processor - INFO - Got hotspot model instance.
+2025-03-03 14:03:35,225 - parallel_video_processor - INFO - Starting hotspot detection for video_id
+2025-03-03 14:03:35,226 - parallel_video_processor - INFO - Initializing Kalman trackers for each class
+2025-03-03 14:03:35,263 - parallel_video_processor - INFO - Starting frame processing loop
+2025-03-03 14:03:46,678 - parallel_video_processor - INFO - Video processing completed. Total frames: 567
+2025-03-03 14:03:46,678 - parallel_video_processor - INFO - Processing completed in 11.41 seconds. Found 352 unique objects across all classes
+2025-03-03 14:11:35,629 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 14:11:35,629 - parallel_video_processor - INFO - Got hotspot model instance.
+2025-03-03 14:11:35,629 - parallel_video_processor - INFO - Starting hotspot detection for video_id
+2025-03-03 14:11:35,629 - parallel_video_processor - INFO - Initializing Kalman trackers for each class
+2025-03-03 14:11:35,645 - parallel_video_processor - INFO - Starting frame processing loop
+2025-03-03 14:11:45,287 - parallel_video_processor - INFO - Video processing completed. Total frames: 567
+2025-03-03 14:11:45,287 - parallel_video_processor - INFO - Processing completed in 9.64 seconds. Found 352 unique objects across all classes
+2025-03-03 15:05:01,561 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 15:05:01,561 - parallel_video_processor - INFO - Got hotspot model instance.
+2025-03-03 15:05:01,561 - parallel_video_processor - INFO - Starting hotspot detection for video_id
+2025-03-03 15:05:01,561 - parallel_video_processor - INFO - Initializing Kalman trackers for each class
+2025-03-03 15:05:01,595 - parallel_video_processor - INFO - Starting frame processing loop
+2025-03-03 15:06:08,268 - parallel_video_processor - INFO - Video processing completed. Total frames: 2491
+2025-03-03 15:06:08,269 - parallel_video_processor - INFO - Processing completed in 66.67 seconds. Found 2077 unique objects across all classes
+2025-03-03 15:23:37,439 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 15:23:37,454 - parallel_video_processor - INFO - Got hotspot model instance.
+2025-03-03 15:23:37,454 - parallel_video_processor - INFO - Starting hotspot detection for video_id
+2025-03-03 15:23:37,454 - parallel_video_processor - INFO - Initializing Kalman trackers for each class
+2025-03-03 15:23:37,485 - parallel_video_processor - INFO - Starting frame processing loop
+2025-03-03 15:25:50,250 - parallel_video_processor - INFO - Video processing completed. Total frames: 2491
+2025-03-03 15:25:50,250 - parallel_video_processor - INFO - Processing completed in 132.76 seconds. Found 2077 unique objects across all classes
+2025-03-03 15:46:14,898 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 15:46:47,373 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 15:46:47,375 - parallel_video_processor - INFO - Got hotspot model instance.
+2025-03-03 15:46:47,376 - parallel_video_processor - INFO - Starting hotspot detection for video_id
+2025-03-03 15:46:47,377 - parallel_video_processor - INFO - Initializing Kalman trackers for each class
+2025-03-03 15:46:47,443 - parallel_video_processor - INFO - Starting frame processing loop
+2025-03-03 15:47:51,986 - parallel_video_processor - INFO - Video processing completed. Total frames: 2491
+2025-03-03 15:47:51,986 - parallel_video_processor - INFO - Processing completed in 64.54 seconds. Found 2077 unique objects across all classes
+2025-03-03 16:08:18,207 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 16:08:18,207 - parallel_video_processor - INFO - Got hotspot model instance.
+2025-03-03 16:08:18,207 - parallel_video_processor - INFO - Starting hotspot detection for video_id
+2025-03-03 16:08:18,207 - parallel_video_processor - INFO - Initializing Kalman trackers for each class
+2025-03-03 16:08:18,230 - parallel_video_processor - INFO - Starting frame processing loop
+2025-03-03 16:09:28,725 - parallel_video_processor - INFO - Video processing completed. Total frames: 2491
+2025-03-03 16:09:28,725 - parallel_video_processor - INFO - Processing completed in 70.50 seconds. Found 2077 unique objects across all classes
+2025-03-03 17:28:24,364 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 17:28:24,364 - parallel_video_processor - INFO - Got hotspot model instance.
+2025-03-03 17:28:24,364 - parallel_video_processor - INFO - Starting hotspot detection for video_id
+2025-03-03 17:28:24,364 - parallel_video_processor - INFO - Initializing Kalman trackers for each class
+2025-03-03 17:28:24,549 - parallel_video_processor - ERROR - Hotspot video processing failed: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\singlegpu_videoprocessor.py", line 95, in _process_hotspot_video
+    raise Exception(f"Failed to open video file: {video_path}")
+Exception: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+2025-03-03 17:28:24,581 - parallel_video_processor - ERROR - Error processing video: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\singlegpu_videoprocessor.py", line 40, in process_video
+    success = await self._process_hotspot_video(video_path, model_instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\singlegpu_videoprocessor.py", line 95, in _process_hotspot_video
+    raise Exception(f"Failed to open video file: {video_path}")
+Exception: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+2025-03-03 17:28:52,523 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 17:29:32,031 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 17:34:16,597 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 17:34:16,599 - parallel_video_processor - INFO - Got hotspot model instance.
+2025-03-03 17:34:16,599 - parallel_video_processor - INFO - Starting hotspot detection for video_id
+2025-03-03 17:34:16,600 - parallel_video_processor - INFO - Initializing Kalman trackers for each class
+2025-03-03 17:34:16,687 - parallel_video_processor - ERROR - Hotspot video processing failed: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\singlegpu_videoprocessor.py", line 95, in _process_hotspot_video
+    raise Exception(f"Failed to open video file: {video_path}")
+Exception: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+2025-03-03 17:34:16,689 - parallel_video_processor - ERROR - Error processing video: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\singlegpu_videoprocessor.py", line 40, in process_video
+    success = await self._process_hotspot_video(video_path, model_instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\ctrlS nagpur\gpu-debug-main\singlegpu_videoprocessor.py", line 95, in _process_hotspot_video
+    raise Exception(f"Failed to open video file: {video_path}")
+Exception: Failed to open video file: --f=c:\Users\DELL\AppData\Roaming\jupyter\runtime\kernel-v3dac9128e99d1fee3bd947be7672a348602e41505.json
+2025-03-03 17:34:29,136 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
+2025-03-03 19:07:59,842 - parallel_video_processor - INFO - Initializing ParallelVideoProcessor.
