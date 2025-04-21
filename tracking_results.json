@@ -1,200 +1,352 @@
 {
+  "max_age_10_min_ma_1": {
+    "max_age": 10,
+    "min_ma": 1,
+    "total_frames": 1651,
+    "total_tracked_objects": 311,
+    "avg_track_length": 9.59807073954984,
+    "processing_time": 92.759052,
+    "objects_per_class": {
+      "0": 160,
+      "1": 139,
+      "2": 0,
+      "3": 12
+    }
+  },
+  "max_age_10_min_ma_2": {
+    "max_age": 10,
+    "min_ma": 2,
+    "total_frames": 1651,
+    "total_tracked_objects": 311,
+    "avg_track_length": 9.59807073954984,
+    "processing_time": 81.392209,
+    "objects_per_class": {
+      "0": 160,
+      "1": 139,
+      "2": 0,
+      "3": 12
+    }
+  },
+  "max_age_10_min_ma_3": {
+    "max_age": 10,
+    "min_ma": 3,
+    "total_frames": 1651,
+    "total_tracked_objects": 311,
+    "avg_track_length": 9.59807073954984,
+    "processing_time": 85.014572,
+    "objects_per_class": {
+      "0": 160,
+      "1": 139,
+      "2": 0,
+      "3": 12
+    }
+  },
+  "max_age_10_min_ma_4": {
+    "max_age": 10,
+    "min_ma": 4,
+    "total_frames": 1651,
+    "total_tracked_objects": 311,
+    "avg_track_length": 9.59807073954984,
+    "processing_time": 93.822689,
+    "objects_per_class": {
+      "0": 160,
+      "1": 139,
+      "2": 0,
+      "3": 12
+    }
+  },
+  "max_age_10_min_ma_5": {
+    "max_age": 10,
+    "min_ma": 5,
+    "total_frames": 1651,
+    "total_tracked_objects": 311,
+    "avg_track_length": 9.59807073954984,
+    "processing_time": 80.229428,
+    "objects_per_class": {
+      "0": 160,
+      "1": 139,
+      "2": 0,
+      "3": 12
+    }
+  },
+  "max_age_20_min_ma_1": {
+    "max_age": 20,
+    "min_ma": 1,
+    "total_frames": 1651,
+    "total_tracked_objects": 304,
+    "avg_track_length": 14.486842105263158,
+    "processing_time": 98.324724,
+    "objects_per_class": {
+      "0": 160,
+      "1": 132,
+      "2": 0,
+      "3": 12
+    }
+  },
+  "max_age_20_min_ma_2": {
+    "max_age": 20,
+    "min_ma": 2,
+    "total_frames": 1651,
+    "total_tracked_objects": 304,
+    "avg_track_length": 14.486842105263158,
+    "processing_time": 95.628417,
+    "objects_per_class": {
+      "0": 160,
+      "1": 132,
+      "2": 0,
+      "3": 12
+    }
+  },
+  "max_age_20_min_ma_3": {
+    "max_age": 20,
+    "min_ma": 3,
+    "total_frames": 1651,
+    "total_tracked_objects": 304,
+    "avg_track_length": 14.486842105263158,
+    "processing_time": 93.743061,
+    "objects_per_class": {
+      "0": 160,
+      "1": 132,
+      "2": 0,
+      "3": 12
+    }
+  },
+  "max_age_20_min_ma_4": {
+    "max_age": 20,
+    "min_ma": 4,
+    "total_frames": 1651,
+    "total_tracked_objects": 304,
+    "avg_track_length": 14.486842105263158,
+    "processing_time": 80.981553,
+    "objects_per_class": {
+      "0": 160,
+      "1": 132,
+      "2": 0,
+      "3": 12
+    }
+  },
+  "max_age_20_min_ma_5": {
+    "max_age": 20,
+    "min_ma": 5,
+    "total_frames": 1651,
+    "total_tracked_objects": 304,
+    "avg_track_length": 14.486842105263158,
+    "processing_time": 80.403995,
+    "objects_per_class": {
+      "0": 160,
+      "1": 132,
+      "2": 0,
+      "3": 12
+    }
+  },
   "max_age_30_min_ma_1": {
     "max_age": 30,
     "min_ma": 1,
     "total_frames": 1651,
-    "total_tracked_objects": 240,
-    "avg_track_length": 17.816666666666666,
-    "filtered_objects": 51,
-    "avg_valid_track_length": 81.19607843137256,
-    "processing_time": 58.371453,
-    "objects_per_class_raw": {
-      "0": 152,
-      "1": 77,
+    "total_tracked_objects": 298,
+    "avg_track_length": 18.996644295302012,
+    "processing_time": 81.579575,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 11
-    },
-    "objects_per_class_filtered": {
-      "0": 18,
-      "1": 26,
+      "3": 12
+    }
+  },
+  "max_age_30_min_ma_2": {
+    "max_age": 30,
+    "min_ma": 2,
+    "total_frames": 1651,
+    "total_tracked_objects": 298,
+    "avg_track_length": 18.996644295302012,
+    "processing_time": 80.983977,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 7
+      "3": 12
     }
   },
   "max_age_30_min_ma_3": {
     "max_age": 30,
     "min_ma": 3,
     "total_frames": 1651,
-    "total_tracked_objects": 240,
-    "avg_track_length": 17.816666666666666,
-    "filtered_objects": 51,
-    "avg_valid_track_length": 81.19607843137256,
-    "processing_time": 60.159319,
-    "objects_per_class_raw": {
-      "0": 152,
-      "1": 77,
+    "total_tracked_objects": 298,
+    "avg_track_length": 18.996644295302012,
+    "processing_time": 81.908,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 11
-    },
-    "objects_per_class_filtered": {
-      "0": 18,
-      "1": 26,
+      "3": 12
+    }
+  },
+  "max_age_30_min_ma_4": {
+    "max_age": 30,
+    "min_ma": 4,
+    "total_frames": 1651,
+    "total_tracked_objects": 298,
+    "avg_track_length": 18.996644295302012,
+    "processing_time": 81.149384,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 7
+      "3": 12
     }
   },
   "max_age_30_min_ma_5": {
     "max_age": 30,
     "min_ma": 5,
     "total_frames": 1651,
-    "total_tracked_objects": 240,
-    "avg_track_length": 17.816666666666666,
-    "filtered_objects": 51,
-    "avg_valid_track_length": 81.19607843137256,
-    "processing_time": 62.806663,
-    "objects_per_class_raw": {
-      "0": 152,
-      "1": 77,
+    "total_tracked_objects": 298,
+    "avg_track_length": 18.996644295302012,
+    "processing_time": 81.754289,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 11
-    },
-    "objects_per_class_filtered": {
-      "0": 18,
-      "1": 26,
-      "2": 0,
-      "3": 7
+      "3": 12
     }
   },
   "max_age_40_min_ma_1": {
     "max_age": 40,
     "min_ma": 1,
     "total_frames": 1651,
-    "total_tracked_objects": 240,
-    "avg_track_length": 21.9,
-    "filtered_objects": 52,
-    "avg_valid_track_length": 98.48076923076923,
-    "processing_time": 67.111473,
-    "objects_per_class_raw": {
-      "0": 152,
-      "1": 77,
+    "total_tracked_objects": 298,
+    "avg_track_length": 23.590604026845636,
+    "processing_time": 80.658677,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 11
-    },
-    "objects_per_class_filtered": {
-      "0": 19,
-      "1": 26,
+      "3": 12
+    }
+  },
+  "max_age_40_min_ma_2": {
+    "max_age": 40,
+    "min_ma": 2,
+    "total_frames": 1651,
+    "total_tracked_objects": 298,
+    "avg_track_length": 23.590604026845636,
+    "processing_time": 81.866672,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 7
+      "3": 12
     }
   },
   "max_age_40_min_ma_3": {
     "max_age": 40,
     "min_ma": 3,
     "total_frames": 1651,
-    "total_tracked_objects": 240,
-    "avg_track_length": 21.9,
-    "filtered_objects": 52,
-    "avg_valid_track_length": 98.48076923076923,
-    "processing_time": 68.678711,
-    "objects_per_class_raw": {
-      "0": 152,
-      "1": 77,
+    "total_tracked_objects": 298,
+    "avg_track_length": 23.590604026845636,
+    "processing_time": 92.589543,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 11
-    },
-    "objects_per_class_filtered": {
-      "0": 19,
-      "1": 26,
+      "3": 12
+    }
+  },
+  "max_age_40_min_ma_4": {
+    "max_age": 40,
+    "min_ma": 4,
+    "total_frames": 1651,
+    "total_tracked_objects": 298,
+    "avg_track_length": 23.590604026845636,
+    "processing_time": 82.968496,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 7
+      "3": 12
     }
   },
   "max_age_40_min_ma_5": {
     "max_age": 40,
     "min_ma": 5,
     "total_frames": 1651,
-    "total_tracked_objects": 240,
-    "avg_track_length": 21.9,
-    "filtered_objects": 52,
-    "avg_valid_track_length": 98.48076923076923,
-    "processing_time": 71.486704,
-    "objects_per_class_raw": {
-      "0": 152,
-      "1": 77,
+    "total_tracked_objects": 298,
+    "avg_track_length": 23.590604026845636,
+    "processing_time": 81.195831,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 11
-    },
-    "objects_per_class_filtered": {
-      "0": 19,
-      "1": 26,
-      "2": 0,
-      "3": 7
+      "3": 12
     }
   },
   "max_age_50_min_ma_1": {
     "max_age": 50,
     "min_ma": 1,
     "total_frames": 1651,
-    "total_tracked_objects": 240,
-    "avg_track_length": 25.4875,
-    "filtered_objects": 53,
-    "avg_valid_track_length": 112.86792452830188,
-    "processing_time": 73.084524,
-    "objects_per_class_raw": {
-      "0": 152,
-      "1": 77,
+    "total_tracked_objects": 298,
+    "avg_track_length": 27.308724832214764,
+    "processing_time": 82.14579,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 11
-    },
-    "objects_per_class_filtered": {
-      "0": 21,
-      "1": 25,
+      "3": 12
+    }
+  },
+  "max_age_50_min_ma_2": {
+    "max_age": 50,
+    "min_ma": 2,
+    "total_frames": 1651,
+    "total_tracked_objects": 298,
+    "avg_track_length": 27.308724832214764,
+    "processing_time": 81.320685,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 7
+      "3": 12
     }
   },
   "max_age_50_min_ma_3": {
     "max_age": 50,
     "min_ma": 3,
     "total_frames": 1651,
-    "total_tracked_objects": 240,
-    "avg_track_length": 25.4875,
-    "filtered_objects": 53,
-    "avg_valid_track_length": 112.86792452830188,
-    "processing_time": 73.34487,
-    "objects_per_class_raw": {
-      "0": 152,
-      "1": 77,
+    "total_tracked_objects": 298,
+    "avg_track_length": 27.308724832214764,
+    "processing_time": 81.033408,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 11
-    },
-    "objects_per_class_filtered": {
-      "0": 21,
-      "1": 25,
+      "3": 12
+    }
+  },
+  "max_age_50_min_ma_4": {
+    "max_age": 50,
+    "min_ma": 4,
+    "total_frames": 1651,
+    "total_tracked_objects": 298,
+    "avg_track_length": 27.308724832214764,
+    "processing_time": 82.55385,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 7
+      "3": 12
     }
   },
   "max_age_50_min_ma_5": {
     "max_age": 50,
     "min_ma": 5,
     "total_frames": 1651,
-    "total_tracked_objects": 240,
-    "avg_track_length": 25.4875,
-    "filtered_objects": 53,
-    "avg_valid_track_length": 112.86792452830188,
-    "processing_time": 73.949903,
-    "objects_per_class_raw": {
-      "0": 152,
-      "1": 77,
+    "total_tracked_objects": 298,
+    "avg_track_length": 27.308724832214764,
+    "processing_time": 76.816931,
+    "objects_per_class": {
+      "0": 160,
+      "1": 126,
       "2": 0,
-      "3": 11
-    },
-    "objects_per_class_filtered": {
-      "0": 21,
-      "1": 25,
-      "2": 0,
-      "3": 7
+      "3": 12
     }
   }
 }

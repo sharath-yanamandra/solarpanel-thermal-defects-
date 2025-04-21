@@ -10,7 +10,6 @@ class Config:
     PROCESSING_TIMEOUT = 3600 # 1 hour in seconds
     FRAMES_OUTPUT_DIR = 'frames'
 
-    TRACKING_THRESHOLD = 6
+    TRACKING_THRESHOLD = 5
     MAX_AGE = 50
     MIN_MA = 1
-MIN_TRACK_LENGTH = 5  # Minimum frames to consider a track valid
